@@ -1,1 +1,7 @@
-MRP-October 3, 2011
+Init: MRP-October 3, 2011
+
+1. git clone https://github.com/avlMatt/mainDev.0.0
+2. make xconfig 
+	- Change path to CodeSourcery Toolchain
+	- Update information
+3. make
